@@ -19,6 +19,12 @@ You can install these packages using pip:
 pip install transformers beautifulsoup4 lxml PyQt5
 ```
 
+Alternatively, install the required packages by running the following command in your terminal or command prompt:
+
+```
+pip install -r requirements.txt
+```
+
 ## Usage
 
 To run the application, simply execute the following command:
